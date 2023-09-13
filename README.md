@@ -23,7 +23,7 @@ Data for the notes is stored in a local JSON file named `notes.json`.
 
 1. Clone the repository:
    ```bash
-   git clone [repository-link]
+   git clone [[repository-link]](https://github.com/CodersArkX/nodeJsNotesProject.git)
    ```
 2. Install the required packages:
    ```bash
