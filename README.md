@@ -38,7 +38,7 @@ Data for the notes is stored in a local JSON file named `notes.json`.
 Here's a breakdown of what each part does:
 
 ### Setting up modules and router
-inside the routes folder there is **notesRoutes.js** file u will fin a basic structure of all requests that we will need so the goal is to complete it 
+inside the routes folder there is **notesRoutes.js** file u will find a basic structure of all requests that we will need so the goal is to complete it 
 
 ## Exemples 
 #### Viewing All Notes
