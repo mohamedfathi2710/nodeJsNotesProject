@@ -43,9 +43,9 @@ inside the notesRoutes.js u will basic structure of all requests that we will ne
 ## Exemples 
 # Viewing All Notes
 for exemple here u will need to implemente the logic to get all notes 
-```bash
+   ```bash
    router.get('/', ...);
-```
+   ```
 
 
 ## Last and not least 
