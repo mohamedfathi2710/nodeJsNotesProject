@@ -1,0 +1,30 @@
+{
+  "title": "Introduction to Node.js",
+  "notes": [
+    {
+      "id": 1,
+      "title": "Intro to Node.js",
+      "note": "Explain what Node.js is and why it's important."
+    },
+    {
+      "id": 2,
+      "title": "Why Node.js?",
+      "note": "Discuss the advantages of using Node.js."
+    },
+    {
+      "id": 3,
+      "title": "Event-Driven & Non-blocking I/O",
+      "note": "Explain how Node.js is non-blocking and event-driven."
+    },
+    {
+      "id": 4,
+      "title": "NPM and package.json",
+      "note": "Introduce NPM and explain the role of package.json."
+    },
+    {
+      "id": 5,
+      "title": "Modules",
+      "note": "Organize and split code |"
+    }
+  ]
+}
