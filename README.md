@@ -40,14 +40,14 @@ Here's a breakdown of what each part does:
 ### Setting up modules and router
 inside the notesRoutes.js u will basic structure of all requests that we will need so the goal is to complete it 
 
-##Exemples 
-#Viewing All Notes
+## Exemples 
+# Viewing All Notes
 for exemple here u will need to implemente the logic to get all notes 
 ```bash
    router.get('/', ...);
 ```
 
 
-###Last and not least 
+## Last and not least 
 Remember, understanding and modifying a codebase is a crucial skill for a developer. This is a foundational project to get you started on that journey. Dive in and happy coding! 🚀
    
